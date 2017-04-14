@@ -3,11 +3,15 @@
 >Retrofit是Square公司开发的一款针对Android网络请求的框架，Retrofit2底层基于OkHttp实现的，OkHttp现在已经得到Google官方认可，大量的app都采用OkHttp做网络请求，其源码详见OkHttp Github。
 
 ##Gradle引入
+
 compile 'com.squareup.retrofit2:retrofit:2.2.0'
+
 ##Jar
+
 Download [the latest JAR][1] or grab via Maven:
 
 ###GitHub（square）
+
 https://github.com/square/retrofit
 
 >Demo数据全部来自本地数据（PHP）
